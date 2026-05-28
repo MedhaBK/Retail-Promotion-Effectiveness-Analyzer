@@ -14,8 +14,8 @@ or redesign promotion spend.
 
 | | |
 |---|---|
-| ![Executive Overview](assets/executive_overview.png) | ![Promotion Analysis](assets/promotion_analysis.png) |
-| ![Segmentation](assets/segmentation.png) | ![Sales Trends](assets/sales_trends.png) |
+| ![Executive Overview](dashboard/assets/executive_overview.png) | ![Promotion Analysis](dashboard/assets/promotion_analysis.png) |
+| ![Segmentation](dashboard/assets/segmentation.png) | ![Sales Trends](dashboard/assets/sales_trends.png)|
 
 🔗 **[Live Demo →](https://retail-promotion-effectiveness-zsg5qjftz5cjtawh7adoli.streamlit.app/)**
 
